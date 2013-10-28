@@ -1,7 +1,7 @@
 BuildTypesFlavorsProject
 ========================
 
-Build Flavors Project for Android Studio
+Product Flavors Project for Android Studio
 
 This Android Studio Sample Code is a part of the new Chapter "Build Types - Product Flavors - Build Variants" in
 
